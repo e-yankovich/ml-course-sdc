@@ -33,5 +33,7 @@ Predict the nightly price of Airbnb listings in New York City based on listing c
 ## Files
 
 - `Small_Project_Evgeniya_Y.ipynb` — full analysis and modeling notebook
-- `AB_NYC_2019.csv` — dataset
 - `New_York_City_.png` — NYC borough map used for geographic visualization
+
+>Note:
+This project was developed as part of a classical machine learning coursework and is intended for educational and demonstration purposes.
